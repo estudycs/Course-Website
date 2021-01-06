@@ -1,3 +1,3 @@
 # example.github.io
-This is Web developement course project.
+This is Web development course project.
 Using HTML,CSS.
